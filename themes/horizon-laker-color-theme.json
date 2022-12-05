@@ -2,12 +2,13 @@
   "name": "Horizon Laker Theme",
   "colors": {
     "foreground": "#e6e1cf",
+    "focusBorder": "#45403d00",
     "editor.background": "#292828",
     "activityBar.background": "#292828",
     "sideBar.background": "#292828",
     "sideBarSectionHeader.background": "#292828",
-    "sideBar.foreground": "#e6e1cf",
-    "editor.foreground": "#e6e1cf",
+    "sideBar.foreground": "#928374",
+    "editor.foreground": "#d4be98",
     "activityBarBadge.background": "#363636",
     "statusBar.background": "#292828",
     "titleBar.activeBackground": "#292828",
@@ -17,7 +18,25 @@
     "editorGroupHeader.tabsBackground": "#292828",
     "tab.border": "#FDF0ED00",
     "tab.activeBorder": "#e6e1cf",
-    "tab.inactiveBackground": "#292828"
+    "tab.inactiveBackground": "#292828",
+    "editor.foldBackground": "#45403d80",
+    "toolbar.hoverBackground": "#383432",
+    "button.hoverBackground": "#928374",
+    "button.secondaryHoverBackground": "#45403d",
+    "list.hoverForeground": "#d4be98",
+    "list.hoverBackground": "#29282800",
+    "list.highlightForeground": "#a9b665",
+    "editor.selectionHighlightBackground": "#50494558",
+    "editor.wordHighlightBackground": "#50494558",
+    "editor.wordHighlightStrongBackground": "#504945b0",
+    "editor.hoverHighlightBackground": "#504945b0",
+    "editor.lineHighlightBorder": "#45403d00",
+    "editor.lineHighlightBackground": "#38343290",
+    "editor.selectionBackground": "#504945b0",
+    "list.activeSelectionForeground": "#d4be98",
+    "list.activeSelectionBackground": "#45403d60",
+    "list.inactiveSelectionForeground": "#a89984",
+    "list.inactiveSelectionBackground": "#45403d48",
   },
   "tokenColors": [
     {
@@ -25,7 +44,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#363636"
+        "foreground": "#928374"
       }
     },
     {
