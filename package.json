@@ -1,6 +1,11 @@
 {
-  "name": "chad-horizon",
-  "displayName": "Chad Horizon",
+  "name": "horizon-laker-theme",
+  "author": "Julien QUENNEHEN",
+  "displayName": "horizon-laker-theme",
+  "publisher": "julienquennehen",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": "https://github.com/JulienQNN/vscode-horizon-laker-theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Chad Horizon",
+        "label": "Horizon Laker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Chad Horizon-color-theme.json"
+        "path": "./themes/horizon-laker-color-theme.json"
       }
     ]
   }
