@@ -1,13 +1,13 @@
 {
   "name": "horizon-laker-theme",
   "author": "Julien QUENNEHEN",
-  "displayName": "horizon-laker-theme",
+  "displayName": "Horizon Laker Theme",
   "publisher": "julienquennehen",
   "license": "MIT",
   "icon": "icon.png",
   "repository": "https://github.com/JulienQNN/vscode-horizon-laker-theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.73.0"
   },
