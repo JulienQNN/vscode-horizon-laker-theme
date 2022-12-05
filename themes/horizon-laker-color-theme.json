@@ -2,22 +2,22 @@
   "name": "Horizon Laker Theme",
   "colors": {
     "foreground": "#e6e1cf",
-    "editor.background": "#181818",
-    "activityBar.background": "#181818",
-    "sideBar.background": "#181818",
-    "sideBarSectionHeader.background": "#181818",
+    "editor.background": "#292828",
+    "activityBar.background": "#292828",
+    "sideBar.background": "#292828",
+    "sideBarSectionHeader.background": "#292828",
     "sideBar.foreground": "#e6e1cf",
     "editor.foreground": "#e6e1cf",
     "activityBarBadge.background": "#363636",
-    "statusBar.background": "#181818",
-    "titleBar.activeBackground": "#181818",
-    "titleBar.inactiveBackground": "#181818",
+    "statusBar.background": "#292828",
+    "titleBar.activeBackground": "#292828",
+    "titleBar.inactiveBackground": "#292828",
     "panelTitle.activeBorder": "#825aff",
     "editorGroup.border": "#1A1C231A",
-    "editorGroupHeader.tabsBackground": "#181818",
+    "editorGroupHeader.tabsBackground": "#292828",
     "tab.border": "#FDF0ED00",
     "tab.activeBorder": "#e6e1cf",
-    "tab.inactiveBackground": "#181818"
+    "tab.inactiveBackground": "#292828"
   },
   "tokenColors": [
     {
@@ -92,14 +92,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#cfe4e6"
-      }
-    },
-    {
-      "name": "Function, Special Method",
-      "scope": "meta.function-call entity.name.function",
-      "settings": {
-        "foreground": "#f09483"
+        "foreground": "#d3869b"
       }
     },
     {
