@@ -1,12 +1,23 @@
 {
   "name": "Chad Horizon",
   "colors": {
-    "foreground": "#d9d7ce",
+    "foreground": "#e6e1cf",
     "editor.background": "#181818",
-
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#ffa500",
-    "sideBarTitle.foreground": "#ffa500"
+    "activityBar.background": "#181818",
+    "sideBar.background": "#181818",
+    "sideBarSectionHeader.background": "#181818",
+    "sideBar.foreground": "#e6e1cf",
+    "editor.foreground": "#e6e1cf",
+    "activityBarBadge.background": "#363636",
+    "statusBar.background": "#181818",
+    "titleBar.activeBackground": "#181818",
+    "titleBar.inactiveBackground": "#181818",
+    "panelTitle.activeBorder": "#825aff",
+    "editorGroup.border": "#1A1C231A",
+    "editorGroupHeader.tabsBackground": "#181818",
+    "tab.border": "#FDF0ED00",
+    "tab.activeBorder": "#e6e1cf",
+    "tab.inactiveBackground": "#181818"
   },
   "tokenColors": [
     {
