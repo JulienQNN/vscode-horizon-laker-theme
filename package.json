@@ -1,0 +1,26 @@
+{
+  "name": "horizon-laker-theme",
+  "author": "Julien QUENNEHEN",
+  "displayName": "horizon-laker-theme",
+  "publisher": "julienquennehen",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": "https://github.com/JulienQNN/vscode-horizon-laker-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Horizon Laker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/horizon-laker-color-theme.json"
+      }
+    ]
+  }
+}
