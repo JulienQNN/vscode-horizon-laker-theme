@@ -17,4 +17,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## License
 
-[MIT](LICENSE) © [Julien QUENNEHEN](https://github.com/jolaleyehttps://github.com/JulienQNN/chad-horizon-theme-vscode)
+[MIT](LICENSE.md) © [Julien QUENNEHEN](https://github.com/jolaleyehttps://github.com/JulienQNN/chad-horizon-theme-vscode)
