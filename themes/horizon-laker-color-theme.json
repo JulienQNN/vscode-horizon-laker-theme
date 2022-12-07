@@ -2357,10 +2357,10 @@
       }
     },
     {
-      "name": "JSON orange",
+      "name": "JSON Peach",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#e78a4e"
+        "foreground": "#dd936e"
       }
     },
     {
