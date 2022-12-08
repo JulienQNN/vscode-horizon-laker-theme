@@ -1,19 +1,24 @@
-# horizon-laker-color-theme README
+<p align="center">
+   <img alt="icon" width="170" src="./icon.png" />
+</p>
 
-## Working with Markdown
+<h1 style="text-align: center;">Horizon Laker Color</h1>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+> This VSCode color scheme is a fork of the good old [Horizon Theme](https://github.com/jolaleye/horizon-theme-vscode).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<div style="padding-top:16px;padding-bottom:16px;">
 
-## For more information
+> The screenshot shows my background slightly, this is due to an additional VS Code extension called [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<div align="center" style="padding-top:16px;padding-bottom:32px;padding-left:32px;padding-right:32px;">
 
-**Enjoy!**
+<img src="./sc.png" alt="Dark theme - medium contrast" width="700" />
+
+<div style="padding-top:16px;padding-bottom:16px;"></div></div>
+
+## Contributing
+
+Feel free to open a pull request or an issue on [GitHub](https://github.com/JulienQNN/vscode-horizon-laker-theme).
 
 ## License
 
